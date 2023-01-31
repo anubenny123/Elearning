@@ -1,0 +1,14 @@
+Online Bakery
+----------------
+1. Manage items - (tblItem,tblBrand)
+2. Manage employee - (tblEmployee,tblDesignation)
+3. Purchase - (tblPurchaseMaster,tblPurchaseSales,tblStock)
+4. Sales and billing -(tblSalesMaster,tblSalesChild,tblStock)
+5. Order- (tblOrderMaster,tblOrderChild)
+6. Feedback and rating - (tblFeedback, tblRating)
+
+Users
+-----
+Admin
+Employee
+Customer
